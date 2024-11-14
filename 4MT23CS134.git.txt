@@ -1,1 +1,1 @@
-github is a web-based platform that provides hostfor git repositories with additional collobaration features.(github)
+github is a web-based platform that provides hostfor git repositories with additional collobaration features.git
